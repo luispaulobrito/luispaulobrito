@@ -2,9 +2,11 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luispaulobrito/)[![Instagra,](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lp.brito/)
 
-![Luis Paulo GitHub stats](https://github-readme-stats.vercel.app/api?username=luispaulobrito&show_icons=true&theme=dark) 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luispaulobrito)](https://github.com/luispaulobrito/github-readme-stats)
+<div>
+    <a href="https://github.com/luispaulobrito">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luispaulobrito&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luispaulobrito&layout=compact&langs_count=6&theme=tokyonight"/>
+</div>
 
 ## Tecnologias que eu uso no meu dia
 <div style="display: inline_block"><br/>
