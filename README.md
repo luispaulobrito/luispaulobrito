@@ -1,12 +1,11 @@
-### Olá, eu sou o Luís Paulo! 🖐️
-
-<h3>
+<h1 align="center"> Olá, eu sou o Luís Paulo! 🖐️</h2>
+<h3 align="center">
   <a href="https://luispaulo-portifolio.netlify.app/" target="_blank">👨‍💻 Meu Portfolio ❗</a>
 </h3>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luispaulobrito/)[![Instagra,](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lp.brito/)
 
-<div>
+<div align="center">
     <a href="https://github.com/luispaulobrito">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luispaulobrito&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luispaulobrito&layout=compact&langs_count=6&theme=tokyonight"/>
